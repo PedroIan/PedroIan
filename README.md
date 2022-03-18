@@ -2,7 +2,7 @@
 
 Atualmente Engenheiro de Controle e Automação! 
 
-Diretor de Operações da Empresa <a href='timetime.com.br'> TI:ME </a>
+Diretor de Operações da Empresa <a target="_blank" href='https://timetime.com.br'> TI:ME </a>
 
 <!--
 **PedroIan/PedroIan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
