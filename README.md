@@ -4,7 +4,7 @@
 
 Atualmente Engenheiro de Controle e Automação! 
 
-Diretor de Operações da Empresa <a target="_blank" href='https://timetime.com.br'> TI:ME </a>
+Engineer Lead <a target="_blank" href='https://timetime.com.br'> TI:ME </a>
 
 - 📫 Como entrar em contato: pedroianmoraes@gmail.com;
 
