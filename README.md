@@ -1,28 +1,36 @@
-### Bem vindo ao meu perfil no GitHub!
+# 👋 Hey there, I'm Pedro Ian - Your Next Software Superhero! 🚀
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ian-moraes-288915104/)
+## Who Am I?
 
-Atualmente Engenheiro de Controle e Automação! 
+- 🚀 Software Engineer with a passion for front-end and full-stack skilled.
+- 🧐 A detail-oriented developer on a quest for the best results, design, and user experience.
+- 🎓 A Control and Automation Engineer by Federal University of Minas Gerais (UFMG) 
 
-- 📫 Como entrar em contato: pedroianmoraes@gmail.com;
+## My Arsenal of Skills 🛠️
 
-<!--
-**PedroIan/PedroIan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡 Proficient in TypeScript, Angular, and React.
+- 🔧 Also skilled in Matlab, Python, C#, NodeJS.
+- 🛡️ Testing ninja with Cypress and Jest.
+- 🎨 UI/UX magician with Storybook, Angular Material, FluentUI, and MUI.
+- 🏗️ Monorepo maestro with NxConsole.
+- 🌐 Hosting on Vercel – my second home.
 
-Here are some ideas to get you started:
+## What Makes Me Tick 💥
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔨 Crafted 2 impressive projects from scratch, each with over 2,000 active users.
+- 👨‍💼 Successfully managed 3 teams of 4 developers each as the CTO of my own company.
 
+## Beyond the Code 💡
 
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroIan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroIan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
--->
+- ♟️ A chess enthusiast, always strategizing and planning my next move.
+- 📚 A tech aficionado with a never-ending thirst for knowledge.
+- 🤓 Lifelong learner who enjoys trivia about life, the universe, and everything.
+- 🌟 Family is my cornerstone, and I cherish time spent with loved ones.
+- 🌍 I thrive on solving problems and making the world a better place, one line of code at a time.
+
+## Get in Touch 📬
+
+- 📧 Email: [YourEmailAddress@example.com](mailto:YourEmailAddress@example.com)
+- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ian-moraes-288915104/)
+
+Let's connect and make the digital world a better place, together! 🌐🚀
