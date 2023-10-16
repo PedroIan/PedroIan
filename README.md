@@ -30,7 +30,7 @@
 
 ## Get in Touch 📬
 
-- 📧 Email: [YourEmailAddress@example.com](mailto:YourEmailAddress@example.com)
+- 📧 Email: [pedroianmoraes@gmail.com](mailto:pedroianmoraes@gmail.com)
 - [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-ian-moraes-288915104/)
 
 Let's connect and make the digital world a better place, together! 🌐🚀
